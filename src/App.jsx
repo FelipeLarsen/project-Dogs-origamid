@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Home from './Components/Home';
@@ -17,14 +17,14 @@ function App() {
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/login/*" element={<Login />} />
-            <Route 
-              path="/conta/*" 
+            <Route path="login/*" element={<Login />} />
+            <Route
+              path="conta/*"
               element={
                 <ProtectedRoute>
-                  <User /> 
+                  <User />
                 </ProtectedRoute>
-              } 
+              }
             />
           </Routes>
           <Footer />
@@ -32,6 +32,6 @@ function App() {
       </BrowserRouter>
     </div>
   );
-};
+}
 
 export default App;
