@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { useState } from 'react'
 import Input from '../Forms/Input';
 import Button from '../Forms/Button';
 import useForm from '../../Hooks/useForm';
@@ -43,7 +42,7 @@ const LoginForm = () => {
         <p>Ainda não possui conta? Cadastre-se no site.</p>
       </div>
 
-      <Link className={stylesButton.createButton} to="/login/create-user">Cadastro</Link>
+      <Link className={stylesButton.createButton} to="/login/create_user">Cadastro</Link>
     </section>
   )
 }

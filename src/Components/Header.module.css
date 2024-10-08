@@ -5,32 +5,33 @@
     z-index: 100;
     background: white;
     top: 0px;
-}
-
-.nav {
+  }
+  
+  .nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 4rem;
-}
-
-.logo {
+  }
+  
+  .logo {
     padding: 0.5rem 0;
-}
-
-.login {
+  }
+  
+  .login {
     color: #333;
     display: flex;
     align-items: center;
-}
-
-.login::after {
+  }
+  
+  .login::after {
     content: '';
     display: inline-block;
     width: 14px;
     height: 17px;
     background: url('../Assets/usuario.svg') no-repeat center center;
-    margin: 0.5rem;
+    margin-left: 0.5rem;
     position: relative;
     top: -1px;
-}
+  }
+  
