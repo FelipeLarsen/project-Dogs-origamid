@@ -7,7 +7,7 @@ import { USER_POST } from '../../Api';
 import { UserContext } from '../../UserContext';
 import useFetch from '../../Hooks/useFetch';
 
-const LoginCreateUser = () => {
+const LoginCreate = () => {
   const username = useForm();
   const email = useForm('email');
   const password = useForm();
