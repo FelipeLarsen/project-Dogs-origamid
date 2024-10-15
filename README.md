@@ -1,13 +1,5 @@
 <div style="display: flex; justify-content: center;">
-<div style="position: relative;">
-    <div style="display: flex; align-items: center; gap: 4px;">
-        <img style="height: 30px;" src="./.github/logo192.png" alt="Dogs - logo">
-        <div style="height: 30px; width: 1px; background-color: #fb1;"></div>
-        <b style="font-size: 30px; color: #333;">Dogs</b>
-    </div>
-    <p 
-    style="font-size: 5px; color: #eee; font-weight: bold; position: absolute; top: 40px; left: 8px;">Rede social boa pra cachorro.</p>
-</div>
+    <img src="./.github/DogLogo@2x.png" alt="Dogs - logo">
 </div>
 
 <br>
