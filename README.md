@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
     <img src="./.github/DogLogo.svg" alt="Dogs - logo">
 </div>
 
