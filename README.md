@@ -11,7 +11,7 @@
     <li><a href="#descricao">Descrição</a></li>
     <li><a href="#funcionalidades">Funcionalidades</a></li>
     <li><a href="#tecnologias">Tecnologias</a></li>
-    <li><a href="#comoUtilizar">Como Utilizar</a></li>
+    <li><a href="#comoUtilizar">Como Utilizar?</a></li>
 </ul>
 
 <br>
