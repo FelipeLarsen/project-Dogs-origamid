@@ -17,11 +17,17 @@
 <br>
 
 <h2 id="preview">🎨 Preview</h2>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
+| ![Minha Conta](./.github/minhaConta.png) | ![Postar Foto](./.github/postarFoto.png) |
+|-------------------------------------------|------------------------------------------|
+| ![Estatísticas](./.github/estatisticas.png) | 
+
+
+<!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img src="./.github/minhaConta.png" alt="Minha Conta" style="width: 100%; grid-column: span 2;">
   <img src="./.github/postarFoto.png" alt="Postar Foto" style="width: 100%;">
   <img src="./.github/estatisticas.png" alt="Estatísticas" style="width: 100%;">
-</div>
+</div> -->
 
 <br>
 
