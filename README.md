@@ -18,9 +18,9 @@
 
 <h2 id="preview">🎨 Preview</h2>
 
-| ![Minha Conta](./.github/minhaConta.png) | ![Postar Foto](./.github/postarFoto.png) |
-|-------------------------------------------|------------------------------------------|
-| ![Estatísticas](./.github/estatisticas.png) | 
+| ![Login](./.github/preview.png)             | ![Minha Conta](./.github/minhaConta.png) |
+|---------------------------------------------|------------------------------------------|
+| ![Estatísticas](./.github/estatisticas.png) | ![Postar Foto](./.github/postarFoto.png) |
 
 
 <!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
