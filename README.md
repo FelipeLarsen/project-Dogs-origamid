@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-    <img src="./.github/DogLogo@2x.png" alt="Dogs - logo">
+    <img src="./.github/DogLogo.svg" alt="Dogs - logo">
 </div>
 
 <br>
